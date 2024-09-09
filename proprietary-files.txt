@@ -2,7 +2,7 @@
 ### are from from lucye_global_com-user 8.0.0 OPR1.170623.032 192760018980d release-keys
 
 # Bluetooth
-vendor/firmware/BCM4345C0_003.001.025.0162.0298_LGE_G6_Global_ORC.HCD:vendor/firmware/BCM43xx.hcd
+vendor/firmware/BCM4345C0_003.001.025.0162.0298_LGE_G6_Global_ORC.HCD:vendor/firmware/BCM4345C0.hcd
 
 # Graphics - Firmware
 vendor/firmware/a530_gpmu.fw2
@@ -20,6 +20,6 @@ vendor/firmware/a530v3_gpmu.fw2
 vendor/firmware/a530v3_seq.fw2
 
 # Wi-Fi
-vendor/etc/firmware/fw_bcmdhd.bin:vendor/firmware/fw_bcmdhd.bin
-vendor/etc/firmware/fw_bcmdhd_apsta.bin:vendor/firmware/fw_bcmdhd_apsta.bin
-vendor/etc/firmware/fw_bcmdhd_mfg.bin:vendor/firmware/fw_bcmdhd_mfg.bin
+vendor/firmware/fw_bcmdhd.bin
+vendor/firmware/fw_bcmdhd_apsta.bin
+vendor/firmware/fw_bcmdhd_mfg.bin
